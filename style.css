@@ -1,0 +1,42 @@
+.Header{
+   background: linear-gradient(black, grey);
+   padding: 2%;
+   width: 100vw;
+   height: 6vh;
+}
+.nav-active{
+   font-size: larger;
+   font-style: italic;
+}
+.nav-active{
+   padding-left: 5px;
+   margin: auto;
+   font-size: small;
+}
+p{
+   padding-left: 2%;
+   padding-right: 2%;
+   font-size: larg;
+   background-color: white;
+   width: fit-content;
+}
+img{
+   width: 100vw;
+   height: 100vh;
+}
+.gallary > img{
+   height: 90%;
+   width: 24%;
+   margin: 2%;
+   padding: 2%;
+}
+section{
+   width: 35%;
+   height: 50%;
+}
+.section > img{
+   width: 10%;
+   height: 10%;
+   image-orientation: from-image;
+}
+
